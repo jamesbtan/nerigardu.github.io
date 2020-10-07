@@ -1,54 +1,54 @@
-<p><link rel="stylesheet" type="text/css" href="style.css"></p>
+<link rel="stylesheet" type="text/css" href="style.css">
 
-<h1>On Passions: From the Buddhist and Stoic Viewpoints</h1>
+# On Passions: From the Buddhist and Stoic Viewpoints
 
-<p>Written by James Tan</p>
+Written by James Tan
 
-<hr />
+---
 
-<h2>What are Passions?</h2>
+## What are Passions?
 
-<p>Passions generally refer to the uncontrollably strong emotions that we
+Passions generally refer to the uncontrollably strong emotions that we
 all feel from time to time.  Buddhism and Stoicism both perscribe the
 limiting of these passions, but exactly how the two philosophies/religions
 defines these passions and the manner in which they must be limited
-varies greatly.</p>
+varies greatly.
 
-<h2>Stoic view of passions</h2>
+## Stoic view of passions
 
-<h3>Definition of passions</h3>
+### Definition of passions
 
-<p>The Stoics defined the passions as &lsquo;movements of the soul&rsquo; which in
+The Stoics defined the passions as 'movements of the soul' which in
 the Stoic conception of physics was thought to be a physical, invisible
 part of every human being.  These passions were divided into four main
 categories: pleasure, distress, appetite, and fear.  The two internal
 passions, pleasure and distress, stem from your internal state of either
 happiness or distress.  The two external passions, appetite and fear,
 stem from your reaction to external things, such as a craving or aversion
-to some material object.</p>
+to some material object.
 
-<h3>The method of eliminating passions</h3>
+### The method of eliminating passions
 
-<p>The Stoics had a concept called <em>eupathos</em>.  This term represented the
-emotion&rsquo;s of a Stoic sage.  It described an emotional state that is
+The Stoics had a concept called *eupathos*.  This term represented the
+emotion's of a Stoic sage.  It described an emotional state that is
 come upon with the backing of rational thought. The passions are all
 irrational, e.g. pleasure is the irrational feeling of happiness without
-justification. However the <em>eupathos</em> equivalent of pleasure is joy. Joy
+justification. However the *eupathos* equivalent of pleasure is joy. Joy
 is rationally justified, for example if one acted in a virtuous way, it
 is rational to feel joy in this. However, you feel pleasure at having
 money, because this is an irrational happiness since money is never
-under one&rsquo;s direct control. To hypothesize, if the stock market were to
+under one's direct control. To hypothesize, if the stock market were to
 crash or something, all the value of your money woud disappear. However
 one can always ensure that one acts virtuously.  Thus, rather than the
 complete elimination of all emotions, Stoics suggested that all irrational
-passions should be replaced with <em>eupathos</em>.</p>
+passions should be replaced with *eupathos*.
 
-<h3>The state reached when passions are eliminated</h3>
+### The state reached when passions are eliminated
 
-<h2>Buddhist view of passions</h2>
+## Buddhist view of passions
 
-<h3>Definition of passions</h3>
+### Definition of passions
 
-<h3>The method of eliminating passions</h3>
+### The method of eliminating passions
 
-<h3>The state reached when passions are eliminated</h3>
+### The state reached when passions are eliminated
