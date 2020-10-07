@@ -45,9 +45,18 @@ passions should be replaced with *eupathos*.
 
 ### The state reached when passions are eliminated
 
+The Stoics sought to reach a state known as *eudaimonia*. This
+state occurs when one has completely replaced all emotions with its
+corresponding part in *eupathos*.
+The Stoics posited that this would be achieved in realizing the irrational fallacies that often brought suffering to people.
+For example, it is an irrational fallacy to mourn the loss of money or health, because you had no direct control over these in the first place.
+On the other hand, it is within one's control to act with virtue and take control of what they are able. In fact, in Marcus Aurelius' *Meditations*, he describes how attempting to control that which you cannot control and not taking command of what you are able are equally bad offenses.
+
 ## Buddhist view of passions
 
 ### Definition of passions
+
+The Buddhists divided the passions into three main categories: aversion, desire, and ignorance.
 
 ### The method of eliminating passions
 
