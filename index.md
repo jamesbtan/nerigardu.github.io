@@ -1,5 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
 <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
 # On Passions: From the Buddhist and Stoic Viewpoints
 Written by James Tan
 
@@ -53,3 +58,6 @@ passions should be replaced with *eupathos*.
 ### The method of eliminating passions
 
 ### The state reached when passions are eliminated
+
+</body>
+</html>
