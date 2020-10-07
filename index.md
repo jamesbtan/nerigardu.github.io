@@ -16,7 +16,7 @@ varies greatly.
 
 ## Stoic view of passions
 
-### Definition of passions
+### Stoic definition of passions
 
 The Stoics defined the passions as 'movements of the soul' which in
 the Stoic conception of physics was thought to be a physical, invisible
@@ -47,17 +47,38 @@ passions should be replaced with *eupathos*.
 
 The Stoics sought to reach a state known as *eudaimonia*. This
 state occurs when one has completely replaced all emotions with its
-corresponding part in *eupathos*.
-The Stoics posited that this would be achieved in realizing the irrational fallacies that often brought suffering to people.
-For example, it is an irrational fallacy to mourn the loss of money or health, because you had no direct control over these in the first place.
-On the other hand, it is within one's control to act with virtue and take control of what they are able. In fact, in Marcus Aurelius' *Meditations*, he describes how attempting to control that which you cannot control and not taking command of what you are able are equally bad offenses.
+corresponding part in *eupathos*.  The Stoics posited that this would
+be achieved in realizing the irrational fallacies that often brought
+suffering to people.  For example, it is an irrational fallacy to mourn
+the loss of money or health, because you had no direct control over these
+in the first place.  On the other hand, it is within one's control to act
+with virtue and take control of what they are able. In fact, in Marcus
+Aurelius' *Meditations*, he describes how attempting to control that
+which you cannot control and not taking command of what you are able are
+equally bad offenses. In thinking rationally as described here, the Stoics
+believed it would be possible to life a life free from all suffering.
 
 ## Buddhist view of passions
 
-### Definition of passions
+### Buddhist definition of passions
 
-The Buddhists divided the passions into three main categories: aversion, desire, and ignorance.
+The Buddhists divided the passions into three main categories: aversion,
+desire, and ignorance.
 
 ### The method of eliminating passions
 
 ### The state reached when passions are eliminated
+
+Upon the successful elimination of passions, the Buddhist becomes
+ready for Nirvana at their death. However, a core Buddhist belief is
+that suffering is a fundamental part of life, unlike Stoicism where
+it was thought of as a mental state caused by irrational reasoning.
+The term *dukkha*, which is usually translated as suffering, however
+encompasses more than the Stoic conception of suffering.  It includes
+things such as the daily annoyances of life and slight inconveniences
+for example. The Buddhist believes that such things can never be gotten
+rid of and will always prevent the perfect state of mind that can only
+be achieved in Nirvana after death. However, the Stoics believed that
+after internalizing rational thought, a Stoic would be able to recognize
+that such things are out of one's control and thus shouldn't be worried
+about and therefore won't be recognized as things that cause suffering.
