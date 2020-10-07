@@ -7,6 +7,18 @@ Written by James Tan
 
 ---
 
+## tl;dr -- Summary
+
+The passions are strong emotional states that cloud the mind. The Stoics
+thought the way to limit these was to realize how irrational they were
+and by noticing the logical fallacies within a passion, the effect will
+be weakened. The Buddhists believed that the path to eliminating passions
+was internalizing the knowledge of the Four Noble Truths, via undergoing
+the Eightfold path. This would allow them to realize the impermanence
+of passions, so knowing that they will eventually go away the effect is
+weakened. Furthermore, the realization that life is filled with suffering
+will lessen the impact of passions when they inevitably rise up.
+
 ## What are Passions?
 
 Passions generally refer to the uncontrollably strong emotions that we
