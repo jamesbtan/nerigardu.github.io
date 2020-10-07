@@ -1,4 +1,5 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css"> <title>On
+Passions</title>
 
 # On Passions: From the Buddhist and Stoic Viewpoints
 
@@ -11,7 +12,7 @@ Written by James Tan
 Passions generally refer to the uncontrollably strong emotions that we
 all feel from time to time.  Buddhism and Stoicism both perscribe the
 limiting of these passions, but exactly how the two philosophies/religions
-defines these passions and the manner in which they must be limited
+define these passions and the manner in which they must be limited
 varies greatly.
 
 ## Stoic view of passions
@@ -63,9 +64,21 @@ believed it would be possible to life a life free from all suffering.
 ### Buddhist definition of passions
 
 The Buddhists divided the passions into three main categories: aversion,
-desire, and ignorance.
+desire, and ignorance. These passions, along with everything else
+in the material world, bring suffering and are constantly changing,
+according to the Three Marks of Existence: *dukkha* (suffering), *anicca*
+(impermanence), and *anatta* (non-self).
 
 ### The method of eliminating passions
+
+The Buddha proposed that all Buddhists follow the eight-fold path to learn
+the absurdity of passions. The aforementioned concepts of non-self and
+impermanence meant that any passions one felt now, no matter how real
+they felt, were just illusions, as they would soon change into another
+passion. Knowing that none of these passions are real, a Buddhist will
+come to become less and less detached to their passions and at the
+complete detachment, they become ready for Nirvana, as I expand in the
+next section.
 
 ### The state reached when passions are eliminated
 
